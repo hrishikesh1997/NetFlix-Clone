@@ -1,0 +1,19 @@
+.App1{
+  
+  height: 450px;
+  width: 350px;
+  background-color: whitesmoke;
+  margin-top: 70px;
+  margin-left: 100px;
+  text-align: center;
+
+  
+}
+
+.App1:hover{
+  transform: scale(1.2);
+}
+.App1 img{
+  width: 350px;
+  height: 250px;
+}

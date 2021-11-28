@@ -1,0 +1,14 @@
+
+
+.App{
+  display: flex;
+  flex-wrap: wrap;
+  background-color: gray;
+}
+.head{
+  text-align: center;
+  text-shadow: 0.5cm;
+  font-family: 'Courier New', Courier, monospace;
+  letter-spacing: 2px;
+  color: #868686;
+}
